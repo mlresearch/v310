@@ -3,7 +3,7 @@ booktitle: Reliable and Trustworthy Artificial Intelligence 2025
 shortname: Reliable & Trustworthy AI
 year: '2025'
 volume: '310'
-start: &1 2025-12-12
+start: 2025-12-12
 end: 2025-12-12
 published: 2025-12-31
 layout: proceedings
@@ -75,7 +75,7 @@ conference:
   url: https://workshop2025.reliable-ai.org/
   location: Multiple
   dates:
-  - *1
+  - 2025-12-12
 analytics:
   google:
     tracking_id: UA-92432422-1
